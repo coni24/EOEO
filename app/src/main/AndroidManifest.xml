@@ -13,6 +13,9 @@
         android:theme="@style/Theme.SOCIART"
         tools:targetApi="31">
         <activity
+            android:name=".mas"
+            android:exported="false" />
+        <activity
             android:name=".otra"
             android:exported="false" />
         <activity
